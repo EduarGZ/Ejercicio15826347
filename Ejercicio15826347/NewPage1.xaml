@@ -4,7 +4,7 @@
              x:Class="Ejercicio15826347.NewPage1"
              Title="NewPage1">
     <StackLayout Spacing="20" Padding="20">
-        <Label x:Name="texto" Text="hola el primer número" TextColor="Red" HorizontalOptions="Center"></Label>
+        <Label x:Name="texto" Text="hola yo creo que se logro" TextColor="Red" HorizontalOptions="Center"></Label>
         <Entry x:Name="num1" Placeholder="Ingresa el numero" Keyboard="Numeric"></Entry>
         <Button BackgroundColor="Blue" Text="Ingresar" TextColor="White" BorderWidth="20" Clicked="Button_Clicked"></Button>
         <Label x:Name="mostrar" Text="" TextColor="White" HorizontalOptions="Center"></Label>
